@@ -5,4 +5,5 @@ AirTroller (https://github.com/sourcelocation/AirTroller) ported to iOS 12. Less
 
 # Credits & Licenses
 https://github.com/sourcelocation/AirTroller - GPLV3
+
 https://github.com/midnightchip/trolldrop - MIT
