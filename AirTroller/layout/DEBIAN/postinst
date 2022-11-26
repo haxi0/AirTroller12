@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo " Running uicache..."
+uicache -p /Applications/AirTroller.app
+echo " Running uicache... Done."
+
+exit 0;
