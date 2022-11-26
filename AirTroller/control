@@ -1,0 +1,10 @@
+Package: org.haxi0.airtroller12
+Name: AirTroller12
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, firmware (>= 12.0)
+Description: AirTroller port for iOS 12.0
+Maintainer: haxi0 <haxi0sm@gmail.com>
+Author:haxi0 <haxi0sm@gmail.com>
+Section: Utility
+Tag: compatible::12.0-12.5.6
