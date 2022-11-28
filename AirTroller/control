@@ -1,0 +1,11 @@
+Package: org.haxi0.airtroller
+Name: AirTroller12
+Version: 1.1.3
+Icon: file:///Applications/AirTroller.app/CydiaIcon.png
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), firmware (<= 13.0)
+Description: AirTroller port for iOS 12.0
+Maintainer: haxi0 <haxi0sm@gmail.com>
+Author:haxi0 <haxi0sm@gmail.com>
+Section: Utility
+Tag: compatible::12.0-12.5.6
